@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hind_suleiman_hussein">Hind Suleiman Hussein</string>
+    <string name="this_is_my_bio">This is my Bio</string>
+    <string name="enter_your_hobbies">Enter Your Hobbies</string>
+    <string name="add">Add</string>
+    <string name="i_am_a_computer_science_student_in_my_third_year_interested_in_mobile_app_development_web_development_and_ux_ui_design">
+        I am a computer science student in my third year, interested in mobile app development, web development, and
+        UX/UI Design. I\'m taking the courses Human Computer Interaction, Mobile App Development, Analysis of Algorithm, Web Development, and Software Engineering. I love Pandas because pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license.
+    </string>
+</resources>
